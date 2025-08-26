@@ -1,0 +1,67 @@
+body{
+
+    background-color: aqua;
+
+
+}
+
+
+
+
+.main-box{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
+
+
+
+
+.box{
+
+    width: 35%;
+    height: 400px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    
+    
+   
+   
+
+} 
+
+.box h1 {
+
+    text-align: center;
+
+}
+
+
+form{
+
+    transform: translate(140px, 40px);
+
+}
+
+
+.login{
+
+    width: 185px;
+    background-color: azure;
+
+
+}
+
+
+.h1-center{
+
+    text-align: center;
+    transform: translate(0,200px);
+
+}
