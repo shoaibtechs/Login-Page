@@ -33,7 +33,9 @@ The goal of this project is to practice form design, layout centering, and basic
 ## 📸 Screenshots  
 
 ### 🏠 Login Form  
-![Login Page](./screenshot.png)  
+![Login Page](1.png)
+![Login Page](2.png)
+![Login Page](3.png)
 
 ---
 
